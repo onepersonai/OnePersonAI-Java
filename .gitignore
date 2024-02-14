@@ -1,0 +1,7 @@
+/target/
+/logs/
+/.vertx/
+/file-uploads/
+/test/apps
+/test/user
+.idea

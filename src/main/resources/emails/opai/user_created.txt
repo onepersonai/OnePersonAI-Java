@@ -1,0 +1,8 @@
+Hello,
+
+thank you for registering at OnePersonAI. You can now login at {{{opaiServerHost}}}
+
+
+Best Regards,
+
+Your OnePersonAI Team
